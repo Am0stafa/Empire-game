@@ -1,9 +1,35 @@
 # EmpireBuilding
-## A basic GUI game written in java with the javafx framework.
 
-### The player will win if he managed to conquer all cities available in the game under the determined amounts of turns. If these turns passed and the player did not achieve this goal, this is considered a loss.
+## Introduction
 
-The Autoreslove and the battle view need to be configuered correctly.
+EmpireBuilding is a captivating single-player, turn-based strategy game meticulously crafted using Object-Oriented Programming (OOP) and SOLID principles. Set in a vibrant, dynamic world, players are tasked with building and expanding their empires by strategically conquering cities within a given number of turns. This game not only challenges players with its intricate strategic planning but also delights with its engaging gameplay mechanics, offering a unique and immersive experience for strategy enthusiasts.
+
+## Features
+
+- **Turn-Based Strategy**: Plan your moves carefully to expand your empire turn by turn.
+- **City Conquest**: Conquer various cities, each with unique challenges and resources.
+- **Dynamic Battle System**: Engage in battles using a sophisticated algorithm that factors in army strength, unit types, terrain, and more.
+- **Autoresolve Option**: Choose to automatically resolve battles based on strategic calculations.
+- **Graphical Battle View**: Watch battles unfold in a visually engaging graphical interface.
+- **Resource Management**: Manage resources to build your army and sustain your cities.
+- **Time-Based Objectives**: Complete your mission to conquer all cities within the given number of turns.
+
+## Installation
+
+1. Ensure you have Java installed on your system.
+2. Download the latest version of EmpireBuilding from [GitHub repository link].
+3. Extract the files to your desired directory.
+4. Run the `EmpireBuilding.jar` file to start the game.
+
+## How to Play
+
+1. **Starting a New Game**: From the main menu, select 'New Game' to begin your empire-building journey.
+2. **Conquering Cities**: Navigate the map to choose which cities to attack and conquer.
+3. **Managing Resources**: Keep an eye on your resources to maintain your army and cities.
+4. **Engaging in Battles**: Decide whether to engage in battles manually or use the auto-resolve feature.
+5. **Winning the Game**: Successfully conquer all cities within the determined number of turns to win the game.
+
+The Autoreslove and the battle view need to be configured correctly.
 
 ![Empire Building 7_19_2021 11_44_20 PM](https://user-images.githubusercontent.com/83036619/126232317-281b1a43-ac00-480d-a5e4-b5f91ed30d9a.png)
 ![Empire Building 7_19_2021 11_44_47 PM](https://user-images.githubusercontent.com/83036619/126232345-493050c0-a25e-4aef-86ca-d77ddc67974b.png)
