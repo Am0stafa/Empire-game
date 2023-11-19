@@ -14,12 +14,6 @@ EmpireBuilding is a captivating single-player, turn-based strategy game meticulo
 - **Resource Management**: Manage resources to build your army and sustain your cities.
 - **Time-Based Objectives**: Complete your mission to conquer all cities within the given number of turns.
 
-## Installation
-
-1. Ensure you have Java installed on your system.
-2. Download the latest version of EmpireBuilding from [GitHub repository link].
-3. Extract the files to your desired directory.
-4. Run the `EmpireBuilding.jar` file to start the game.
 
 ## How to Play
 
